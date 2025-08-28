@@ -1,5 +1,5 @@
 # AWS EKS 
-![EKS Overview](https://github.com/nightsky213/Kubernetes-Service-Ingress-with-TLS-and-Ingress-Controllers-/blob/main/Screenshot%202025-08-28%20213229.png) {: .align-right }
+![EKS Overview](https://github.com/nightsky213/Kubernetes-Service-Ingress-with-TLS-and-Ingress-Controllers-/blob/main/Screenshot%202025-08-28%20213229.png)
 ## Introduction
 
 ## Table of Contents:
