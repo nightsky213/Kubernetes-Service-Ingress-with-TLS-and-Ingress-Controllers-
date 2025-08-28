@@ -1,5 +1,5 @@
 # AWS EKS 
-
+![EKS Overview](https://example.com/eks-screenshot.jpg){: .align-right }
 ## Introduction
 
 ## Table of Contents:
